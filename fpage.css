@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#loader{
+    
+background:  white url(img/load.gif.gif) no-repeat top;
+background-size: 35%;
+height: 20vh;
+width: 100%;
+z-index: 100; 
+background-color:white ;
+
+}
+
+.contain{
+    height: 60px;
+    width: 100%;
+    margin: auto;
+    margin-bottom: 5px ;
+    background-color: rgba(255, 255, 255, 0.582);
+    box-shadow: 0px 3px 2px rgba(150, 149, 149, 0.911);
+    
+
+   
+}
+h1{
+    color: brown;
+    font-size:40px;
+    font-family: 'Aligarh';
+   
+}
+.box{
+    font-size: 22px;
+    text-align: center;
+    width: 100%;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: rgb(35, 37, 36);
+    margin-bottom: 5px;
+    color: white;
+}
+.one{
+    font-size: 22px;
+    text-align: center;
+    width: 100%;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: rgb(35, 37, 36);
+    margin-bottom: 5px;
+    color: white;
+
+}
+  
